@@ -24,7 +24,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Una de mis series Anime favoritas es Super Once"
-        tools:layout_editor_absoluteX="52dp"
-        tools:layout_editor_absoluteY="151dp" />
+        android:text="Una de mis series Anime favoritas es Super Campeones"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="141dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
